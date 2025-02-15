@@ -9,4 +9,4 @@ This project allows users to upload a PDF and ask questions based on its content
 - Can summarize the document upon request ✨
 
 ## 📂 Project Structure
-📁 pdf-qa-gemini │── 📄 main.py # Main Python script │── 📄 requirements.txt # List of required libraries │── 📄 README.md # Project documentation │── 📁 faiss_index/ # Stores FAISS index │── 📁 examples/ # Sample PDFs
+📁 pdf-qa-gemini │── 📄 main.ipynb # Jupyter Notebook with all code │── 📄 requirements.txt # Dependencies file │── 📄 README.md # Project documentation │── 📁 faiss_index/ # FAISS index storage │── 📁 examples/ # Sample PDFs
