@@ -1,0 +1,12 @@
+# 📖 PDF Q&A System using Google Gemini API
+
+## 🚀 Overview
+This project allows users to upload a PDF and ask questions based on its content. The system:
+- Extracts text from the PDF 📄
+- Splits text into meaningful chunks 🔍
+- Stores embeddings using FAISS + Google Gemini 🔢
+- Supports conversational memory for better answers 🧠
+- Can summarize the document upon request ✨
+
+## 📂 Project Structure
+📁 pdf-qa-gemini │── 📄 main.py # Main Python script │── 📄 requirements.txt # List of required libraries │── 📄 README.md # Project documentation │── 📁 faiss_index/ # Stores FAISS index │── 📁 examples/ # Sample PDFs
