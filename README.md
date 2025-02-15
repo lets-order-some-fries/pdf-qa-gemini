@@ -33,10 +33,5 @@ pip install -r requirements.txt
 - `FAISS` for vector search
 - `Google Generative AI` for embeddings & question answering
 
-## 💡 Future Improvements
-- [ ] Deploy as a web app (Streamlit or Flask)
-- [ ] Add more AI models (like Claude, LLaMA)
-- [ ] Improve summarization methods
-
 ## 📬 Contact
 If you have any issues or suggestions, feel free to **open an issue** or reach out to me!
